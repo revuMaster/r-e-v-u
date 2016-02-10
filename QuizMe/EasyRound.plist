@@ -1,0 +1,1077 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Questions</key>
+	<array>
+		<dict>
+			<key>Question</key>
+			<string>Write “ninety-eight thousand eighty-six” in figures.</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>98,086</string>
+			<key>Answers</key>
+			<array>
+				<string>98,860</string>
+				<string>90,086</string>
+				<string>980,086</string>
+				<string>98,086</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>What is the value of 8 in 876,500?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>800,000</string>
+			<key>Answers</key>
+			<array>
+				<string>800,000</string>
+				<string>80,000</string>
+				<string>8,000</string>
+				<string>800</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Round each addend to the nearest hundred then estimate the sum: 749 + 465 + 893.</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>2,100</string>
+			<key>Answers</key>
+			<array>
+				<string>210</string>
+				<string>21</string>
+				<string>2,100</string>
+				<string>21,000</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>How many times as great is the bold 𝟓 from the 5 in 3,𝟓78,352?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>10,000</string>
+			<key>Answers</key>
+			<array>
+				<string>1,000</string>
+				<string>10,000</string>
+				<string>100,000</string>
+				<string>100</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>What is the smallest digit that can be placed on the blank to make 8_52 &gt; 8458.</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>5</string>
+			<key>Answers</key>
+			<array>
+				<string>3</string>
+				<string>4</string>
+				<string>5</string>
+				<string>6</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Write 4 x 10⁵ + 8 x 10⁴ + 9 x 10³ + 5 x 10² +8 x 10 + 7 in standard form.</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>489,587</string>
+			<key>Answers</key>
+			<array>
+				<string>589,587</string>
+				<string>489,857</string>
+				<string>498,587</string>
+				<string>489,587</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Write MDCCCLXXXVIII in Hindu-Arabic numeral.</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>1,888</string>
+			<key>Answers</key>
+			<array>
+				<string>1,388</string>
+				<string>588</string>
+				<string>1,588</string>
+				<string>1,888</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>How many 100-peso bills are equal to two thousand-peso bills?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>20</string>
+			<key>Answers</key>
+			<array>
+				<string>20</string>
+				<string>200</string>
+				<string>2000</string>
+				<string>100</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Add 56 to the product of 12 x 18.
+
+</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>272</string>
+			<key>Answers</key>
+			<array>
+				<string>216</string>
+				<string>276</string>
+				<string>272</string>
+				<string>236</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Change 6 ⁵/₇ to an improper fraction.</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>⁴⁷/₇</string>
+			<key>Answers</key>
+			<array>
+				<string>⁴²/₇</string>
+				<string>³⁰/₇</string>
+				<string>¹¹/₇</string>
+				<string>⁴⁷/₇</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Change ⁷⁹/₉  to a mixed number with the fraction  in lowest terms.</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>8 ⁷/₉</string>
+			<key>Answers</key>
+			<array>
+				<string>8 ⁷/₉</string>
+				<string>7 ⁷/₉</string>
+				<string>⁷/₉</string>
+				<string>9 ⁷/₉</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Mother cut a cake into 36 equal pieces. She gave 8 pieces to the neighbors and served 7 pieces for snacks. What fraction of the cake remained? Give the answer in lowest terms.</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>⁷/₁₂</string>
+			<key>Answers</key>
+			<array>
+				<string>¹⁵/₃₆</string>
+				<string>²¹/₃₆</string>
+				<string>⁷/₁₂</string>
+				<string>⁵/₁₂</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>What is the smallest number that can be formed with 0, 2, 3, 8, 9?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>20,389</string>
+			<key>Answers</key>
+			<array>
+				<string>2,389</string>
+				<string>2,890</string>
+				<string>23,890</string>
+				<string>20,389</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>What number divisible by 9 is greater than 50 but less than 60?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>54</string>
+			<key>Answers</key>
+			<array>
+				<string>59</string>
+				<string>57</string>
+				<string>54</string>
+				<string>51</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>If  13/20 = N/1000, what is N?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>650</string>
+			<key>Answers</key>
+			<array>
+				<string>50</string>
+				<string>65</string>
+				<string>650</string>
+				<string>500</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Write 8.9 as a mixed number.</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>8 ⁹/₁₀</string>
+			<key>Answers</key>
+			<array>
+				<string>⁸⁹/₁₀</string>
+				<string>⁸⁹/₁₀₀</string>
+				<string>8 ⁹/₁₀</string>
+				<string>8 ⁹/₁₀₀</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Write “seventy-five pesos and sixty-six centavos” with the peso sign.</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>₱75.66</string>
+			<key>Answers</key>
+			<array>
+				<string>₱70.56</string>
+				<string>₱75.66</string>
+				<string>₱70.55</string>
+				<string>₱70.66</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>How many 5-peso coins are equal to four 100-peso bills?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>80</string>
+			<key>Answers</key>
+			<array>
+				<string>20</string>
+				<string>200</string>
+				<string>800</string>
+				<string>80</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>What unit will you use to measure the weight of a 5-peso coin?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>gram</string>
+			<key>Answers</key>
+			<array>
+				<string>gram</string>
+				<string>kilogram</string>
+				<string>pounds</string>
+				<string>ton</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>How many days were there in the year 2003?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>365</string>
+			<key>Answers</key>
+			<array>
+				<string>364</string>
+				<string>365</string>
+				<string>366</string>
+				<string>363</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>How many years are there in 6.5 decades?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>65</string>
+			<key>Answers</key>
+			<array>
+				<string>60</string>
+				<string>70</string>
+				<string>50</string>
+				<string>65</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>What is the greatest common factor of 54 and 72?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>18</string>
+			<key>Answers</key>
+			<array>
+				<string>4</string>
+				<string>18</string>
+				<string>36</string>
+				<string>28</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>What is the least common multiple of 56 and 72?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>504</string>
+			<key>Answers</key>
+			<array>
+				<string>560</string>
+				<string>720</string>
+				<string>216</string>
+				<string>504</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>In a test, Lorna got 9 points less than Maria. If Lorna got 85, what score did Maria get?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>94</string>
+			<key>Answers</key>
+			<array>
+				<string>76</string>
+				<string>85</string>
+				<string>94</string>
+				<string>9</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Lance bought 3 ballpens at ₱7.50 each and a pencil case for  ₱22.50. How much did he pay for the purchase?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>₱45.00</string>
+			<key>Answers</key>
+			<array>
+				<string>₱45.00</string>
+				<string>₱22.50</string>
+				<string>₱45.50</string>
+				<string>₱25.00</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Rosa bought a bag of 50 candies. She gave 1/2 of the candies to her friends and 2/5 of the remaining to her sisters. How many candies remained with her?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>15</string>
+			<key>Answers</key>
+			<array>
+				<string>25</string>
+				<string>20</string>
+				<string>15</string>
+				<string>10</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>An angle measures 42 degrees. How many degrees is its complement?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>48</string>
+			<key>Answers</key>
+			<array>
+				<string>180</string>
+				<string>132</string>
+				<string>90</string>
+				<string>48</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Ron has a rope 6 1/2m long. Tony has one that is 7 2/3. How long are the ropes together?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>14 1/6</string>
+			<key>Answers</key>
+			<array>
+				<string>13 1/6</string>
+				<string>14 1/6</string>
+				<string>13 2/3</string>
+				<string>14 2/3</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Lea’s ribbon is 3 1/2m long. Aida’s ribbon is 2 1/3m. How much longer is Lea’s ribbon compared to Aida’s?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>1 1/6 m</string>
+			<key>Answers</key>
+			<array>
+				<string>5 2/3 m</string>
+				<string>1 2/3 m</string>
+				<string>5 1/6 m</string>
+				<string>1 1/6 m</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>A  balikbayan gave a 1000-peso bill to be shared by 8 nieces and nephews. How much did each one get?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>₱125.00</string>
+			<key>Answers</key>
+			<array>
+				<string>₱8000.00</string>
+				<string>₱1000.00</string>
+				<string>₱125.00</string>
+				<string>₱80.00</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>A garden is 34m long and 21m wide. What is its perimeter?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>110 m</string>
+			<key>Answers</key>
+			<array>
+				<string>110 m</string>
+				<string>714 m</string>
+				<string>75 m</string>
+				<string>357</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>What is the area of a garden 23m long and 15m wide?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>345 m²</string>
+			<key>Answers</key>
+			<array>
+				<string>345 m²</string>
+				<string>38 m²</string>
+				<string>76 m²</string>
+				<string>122.5 m²</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>What is the ratio of 45cm to 7dm?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>9/14</string>
+			<key>Answers</key>
+			<array>
+				<string>45/7</string>
+				<string>7/45</string>
+				<string>9/14</string>
+				<string>14/9</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>There are 34 girls in a class of 54 pupils. What is the ratio of girls to boys?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>17/10</string>
+			<key>Answers</key>
+			<array>
+				<string>10/17</string>
+				<string>34/54</string>
+				<string>20/54</string>
+				<string>17/10</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>The ratio of two numbers is 3:5. If the  smaller number is 36, what is the sum of the two numbers?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>96</string>
+			<key>Answers</key>
+			<array>
+				<string>8</string>
+				<string>60</string>
+				<string>96</string>
+				<string>104</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>How many rays can be named in the figure below?</string>
+			<key>Figure</key>
+			<string>fig1.png</string>
+			<key>CorrectAnswer</key>
+			<string>12</string>
+			<key>Answers</key>
+			<array>
+				<string>21</string>
+				<string>11</string>
+				<string>12</string>
+				<string>20</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>How many segments can be named in the figure above?</string>
+			<key>Figure</key>
+			<string>fig1.png</string>
+			<key>CorrectAnswer</key>
+			<string>21</string>
+			<key>Answers</key>
+			<array>
+				<string>12</string>
+				<string>21</string>
+				<string>20</string>
+				<string>11</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>How many centimeters are equal to 3 3/5 meters?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>360</string>
+			<key>Answers</key>
+			<array>
+				<string>33</string>
+				<string>36</string>
+				<string>330</string>
+				<string>360</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>A sewing box is 25cm long, 20cm wide and 6cm high, what is its volume?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>3000 cm³</string>
+			<key>Answers</key>
+			<array>
+				<string>51 cm³</string>
+				<string>500 cm³</string>
+				<string>150 cm³</string>
+				<string>3000 cm³</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Victoria bought 785cm of silk, 615cm of tetoron and 900cm of velvet. How many meters of cloth did she buy in all?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>23</string>
+			<key>Answers</key>
+			<array>
+				<string>23000</string>
+				<string>2300</string>
+				<string>230</string>
+				<string>23</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>A school yard is 117m long and 103m wide. If you run around it 5 times, how many meters will that be?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>2200m</string>
+			<key>Answers</key>
+			<array>
+				<string>440m</string>
+				<string>880m</string>
+				<string>1760m</string>
+				<string>2200m</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Jack has a garden 12m long and 9m wide. He wants to fence it. If a meter of fencing costs ₱37.50, how much will it cost to fence his garden? </string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>₱1,575.00</string>
+			<key>Answers</key>
+			<array>
+				<string>₱787.50</string>
+				<string>₱1,575.00</string>
+				<string>₱900.00</string>
+				<string>₱575.00</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>How many 3dm pieces of ribbon can be cut from a 10m ribbon?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>33</string>
+			<key>Answers</key>
+			<array>
+				<string>34</string>
+				<string>33</string>
+				<string>4</string>
+				<string>3</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Benilia earns ₱8,700.00 a month. She saves 1/10 of her salary. How much does she save in a month?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>₱870.00</string>
+			<key>Answers</key>
+			<array>
+				<string>₱8,700.00</string>
+				<string>₱870.00</string>
+				<string>₱10,400.00</string>
+				<string>₱1,040.00</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>A vendor bought 130 big oranges at ₱24.50 each. He sold 122 at ₱35.00 each. The rest were spoiled. How much did he gain? </string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>₱1,085.00</string>
+			<key>Answers</key>
+			<array>
+				<string>₱1,085.00</string>
+				<string>₱3,185.00</string>
+				<string>₱2,100.00</string>
+				<string>₱196.00</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Greg has ₱81.00. Ricky has ₱36.00 less than twice the money of Greg. How much do they have altogether?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>₱207.00</string>
+			<key>Answers</key>
+			<array>
+				<string>₱162.00</string>
+				<string>₱126.00</string>
+				<string>₱207.00</string>
+				<string>₱36.00</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>A square has a side of 18m. A rectangle has a length of 22m and a width of 16m. By how much is the area of the rectangle bigger than the area of the square?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>28 m²</string>
+			<key>Answers</key>
+			<array>
+				<string>28 m²</string>
+				<string>676 m²</string>
+				<string>352 m²</string>
+				<string>324 m²</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>What is the quotient when the sum of the first six even counting numbers is divided by 2?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>21</string>
+			<key>Answers</key>
+			<array>
+				<string>3</string>
+				<string>14</string>
+				<string>42</string>
+				<string>21</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Ann and Tom work part time at a mall. Ann works for 3 consecutive days then has a free day. Tom works for 5 consecutive days then has 2 consecutive days off. If both worked on January 1, when did they next work on the same day?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>January 5</string>
+			<key>Answers</key>
+			<array>
+				<string>January 4</string>
+				<string>January 5</string>
+				<string>January 6</string>
+				<string>January 7</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Lyn has red strips of cartolina, each 12cm long. Rose has blue strips of cartolina, each 14cm long. What is the least number of strips Lyn can lay beside the least number that Rose must lay so that their strips will be the same length? Give the answer only for Lyn.</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>7</string>
+			<key>Answers</key>
+			<array>
+				<string>6</string>
+				<string>7</string>
+				<string>8</string>
+				<string>9</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Give two prime numbers whose sum is 32 and difference is 26.</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>29 and 3</string>
+			<key>Answers</key>
+			<array>
+				<string>19 and 13</string>
+				<string>35 and 9</string>
+				<string>17 and 15</string>
+				<string>29 and 3</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Write the least 5-digit odd number using all the digits 0, 3, 7, 2, 5.</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>20,357</string>
+			<key>Answers</key>
+			<array>
+				<string>2,357</string>
+				<string>23,570</string>
+				<string>20,357</string>
+				<string>3,257</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>What is the sum of 3 1/4  and 2 1/2?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>5 3/4</string>
+			<key>Answers</key>
+			<array>
+				<string>5 5/8</string>
+				<string>5 3/4</string>
+				<string>5 4/8</string>
+				<string>5 7/8</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>A 7m piece of ribbon is cut into 2 dm pieces. How many pieces would it have?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>35</string>
+			<key>Answers</key>
+			<array>
+				<string>3</string>
+				<string>4</string>
+				<string>14</string>
+				<string>35</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>The sum of the measures of two angles of a triangle is 121⁰. What is the third angle?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>59⁰</string>
+			<key>Answers</key>
+			<array>
+				<string>239⁰</string>
+				<string>31⁰</string>
+				<string>59⁰</string>
+				<string>131⁰</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>What is the value of 3⁴ – 4³?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>17</string>
+			<key>Answers</key>
+			<array>
+				<string>33</string>
+				<string>81</string>
+				<string>17</string>
+				<string>64</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>How many thousands are in 7.7 million?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>7,700</string>
+			<key>Answers</key>
+			<array>
+				<string>7,700</string>
+				<string>770</string>
+				<string>77</string>
+				<string>7</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>A number multiplied by 9, then divided by 2 gives 72. What is the number?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>16</string>
+			<key>Answers</key>
+			<array>
+				<string>36</string>
+				<string>18</string>
+				<string>9</string>
+				<string>16</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Express 32 x 10³ in standard notation.</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>32,000</string>
+			<key>Answers</key>
+			<array>
+				<string>320</string>
+				<string>3,200</string>
+				<string>32,000</string>
+				<string>320,000</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Nina sold 5/8 of the 64 sampaguita garlands she made. How many were not sold?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>24</string>
+			<key>Answers</key>
+			<array>
+				<string>40</string>
+				<string>8</string>
+				<string>24</string>
+				<string>10</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>What is three-halves of one-half?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>3/4</string>
+			<key>Answers</key>
+			<array>
+				<string>3/2</string>
+				<string>2/3</string>
+				<string>3/4</string>
+				<string>1/2</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Name two multiples of 15 that have a sum of 75.</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>30 and 45</string>
+			<key>Answers</key>
+			<array>
+				<string>30 and 45</string>
+				<string>20 and 55</string>
+				<string>51 and 24</string>
+				<string>60 and 30</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>In a 100-item test, JC  answered 3/4 of the items correctly. RG answered 7/10 correctly and CJ answered 4/5 correctly. Who got the highest score and what did he get?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>CJ, 80</string>
+			<key>Answers</key>
+			<array>
+				<string>JC, 80</string>
+				<string>RG, 80</string>
+				<string>CJ, 80</string>
+				<string>JC, 75</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>In a class of 48 pupils, 1/3 are in the honor roll. Of this number, 1/4 are first honors. How many of the pupils in the honor roll are not first honors?
+</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>12</string>
+			<key>Answers</key>
+			<array>
+				<string>12</string>
+				<string>4</string>
+				<string>32</string>
+				<string>16</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>To decorate a stage, 37.5m of ribbon is cut into 15 pieces of equal lengths. How long is each piece?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>2.5 m</string>
+			<key>Answers</key>
+			<array>
+				<string>15 m</string>
+				<string>25 m</string>
+				<string>2.5 m</string>
+				<string>1.5 m</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>A camera was sold for ₱1,800.00. The advertisement said this was 3/4 of its marked price. What was the marked price?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>₱1,800.00</string>
+			<key>Answers</key>
+			<array>
+				<string>₱5,400.00</string>
+				<string>₱7,200.00</string>
+				<string>₱1,800.00</string>
+				<string>₱2,400.00</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>A staff needs 2 1/2 dm of ribbon for each certificate. How many meters of ribbon does she need to prepare 35 certificates?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>8.75 m</string>
+			<key>Answers</key>
+			<array>
+				<string>8.75 m</string>
+				<string>140 m</string>
+				<string>87.5 m</string>
+				<string>14 m</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>A side of a square is 12cm. If each side is increased by 2cm, by how many square centimeters is the area increased?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>52</string>
+			<key>Answers</key>
+			<array>
+				<string>4</string>
+				<string>16</string>
+				<string>48</string>
+				<string>52</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>The cross product of two equal ratios is 120. If one ratio is 4:15, what is the other ratio?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>8:30</string>
+			<key>Answers</key>
+			<array>
+				<string>30:8</string>
+				<string>12:45</string>
+				<string>2:8</string>
+				<string>8:30</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>A dress is sold at a mall for ₱550.00. A retailer bought half a dozen of this type of dress at 3/4 the regular price. How much did she pay for the dresses?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>₱2,475.00</string>
+			<key>Answers</key>
+			<array>
+				<string>₱412.75</string>
+				<string>₱2,475.00</string>
+				<string>₱4,950.00</string>
+				<string>₱3,300.00</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>A boy got scores of 84, 76, 85, 80, 90 in 5 tests. To get an average of 85, what must be his score in the 6th test?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>95</string>
+			<key>Answers</key>
+			<array>
+				<string>95</string>
+				<string>85</string>
+				<string>100</string>
+				<string>90</string>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

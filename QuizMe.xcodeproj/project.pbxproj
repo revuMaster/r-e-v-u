@@ -7,14 +7,84 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		335F55081C53D9FB0017F35F /* Charts.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 335F55031C53D9A90017F35F /* Charts.framework */; };
+		335F55091C53D9FB0017F35F /* Charts.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 335F55031C53D9A90017F35F /* Charts.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		335F55161C5658D10017F35F /* ScoresViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 335F55151C5658D10017F35F /* ScoresViewController.swift */; };
+		335F55181C5775100017F35F /* EasyScoresViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 335F55171C5775100017F35F /* EasyScoresViewController.swift */; };
 		337C80E41C3FEE5A007D51F4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 337C80E31C3FEE5A007D51F4 /* AppDelegate.swift */; };
 		337C80E61C3FEE5A007D51F4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 337C80E51C3FEE5A007D51F4 /* ViewController.swift */; };
 		337C80E91C3FEE5A007D51F4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 337C80E71C3FEE5A007D51F4 /* Main.storyboard */; };
 		337C80EB1C3FEE5A007D51F4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 337C80EA1C3FEE5A007D51F4 /* Assets.xcassets */; };
 		337C80EE1C3FEE5A007D51F4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 337C80EC1C3FEE5A007D51F4 /* LaunchScreen.storyboard */; };
+		337C80F61C3FF4DC007D51F4 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 337C80F51C3FF4DC007D51F4 /* SettingsViewController.swift */; };
+		337C80F81C3FF52F007D51F4 /* EasyRoundViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 337C80F71C3FF52F007D51F4 /* EasyRoundViewController.swift */; };
+		337C80FA1C3FF542007D51F4 /* AverageRoundViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 337C80F91C3FF542007D51F4 /* AverageRoundViewController.swift */; };
+		337C80FC1C3FF566007D51F4 /* DifficultRoundViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 337C80FB1C3FF566007D51F4 /* DifficultRoundViewController.swift */; };
+		337C80FE1C3FF575007D51F4 /* FullRoundViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 337C80FD1C3FF575007D51F4 /* FullRoundViewController.swift */; };
+		337C81051C3FF88D007D51F4 /* ipadbg@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 337C81001C3FF88D007D51F4 /* ipadbg@2x.png */; };
+		337C81061C3FF88D007D51F4 /* iphone4bg@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 337C81011C3FF88D007D51F4 /* iphone4bg@2x.png */; };
+		337C81071C3FF88D007D51F4 /* iphone5bg@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 337C81021C3FF88D007D51F4 /* iphone5bg@2x.png */; };
+		337C81081C3FF88D007D51F4 /* iphone6bg@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 337C81031C3FF88D007D51F4 /* iphone6bg@2x.png */; };
+		337C81091C3FF88D007D51F4 /* iphone6plusbg@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 337C81041C3FF88D007D51F4 /* iphone6plusbg@2x.png */; };
+		3383B8941C68055500D7A831 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3383B8931C68055500D7A831 /* Extensions.swift */; };
+		339C3CB61C47D2A300C8947F /* EasyRound.plist in Resources */ = {isa = PBXBuildFile; fileRef = 339C3CB21C47D2A300C8947F /* EasyRound.plist */; };
+		339C3CB71C47D2A300C8947F /* AverageRound.plist in Resources */ = {isa = PBXBuildFile; fileRef = 339C3CB31C47D2A300C8947F /* AverageRound.plist */; };
+		339C3CB81C47D2A300C8947F /* FullRound.plist in Resources */ = {isa = PBXBuildFile; fileRef = 339C3CB41C47D2A300C8947F /* FullRound.plist */; };
+		339C3CB91C47D2A300C8947F /* DifficultRound.plist in Resources */ = {isa = PBXBuildFile; fileRef = 339C3CB51C47D2A300C8947F /* DifficultRound.plist */; };
+		339C3CBD1C47D35400C8947F /* fig0.png in Resources */ = {isa = PBXBuildFile; fileRef = 339C3CBB1C47D35400C8947F /* fig0.png */; };
+		339C3CBE1C47D35400C8947F /* fig1.png in Resources */ = {isa = PBXBuildFile; fileRef = 339C3CBC1C47D35400C8947F /* fig1.png */; };
+		339C3CC01C47D3C600C8947F /* Configuration.swift in Sources */ = {isa = PBXBuildFile; fileRef = 339C3CBF1C47D3C600C8947F /* Configuration.swift */; };
 /* End PBXBuildFile section */
 
+/* Begin PBXContainerItemProxy section */
+		335F55021C53D9A90017F35F /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 335F54FC1C53D9A90017F35F /* Charts.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 5BA8EC401A9D14DC00CE82E1;
+			remoteInfo = "Charts-iOS";
+		};
+		335F55041C53D9A90017F35F /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 335F54FC1C53D9A90017F35F /* Charts.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = A52C5C371BAC5CA400594CDD;
+			remoteInfo = "Charts-TV";
+		};
+		335F55061C53D9A90017F35F /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 335F54FC1C53D9A90017F35F /* Charts.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 06AEE7A21BDC3F8B009875AE;
+			remoteInfo = ChartsTests;
+		};
+		335F550A1C53D9FB0017F35F /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 335F54FC1C53D9A90017F35F /* Charts.xcodeproj */;
+			proxyType = 1;
+			remoteGlobalIDString = 5BA8EC3F1A9D14DC00CE82E1;
+			remoteInfo = "Charts-iOS";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		335F550C1C53D9FB0017F35F /* Embed Frameworks */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 10;
+			files = (
+				335F55091C53D9FB0017F35F /* Charts.framework in Embed Frameworks */,
+			);
+			name = "Embed Frameworks";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
 /* Begin PBXFileReference section */
+		335F54FC1C53D9A90017F35F /* Charts.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = Charts.xcodeproj; path = Charts/Charts.xcodeproj; sourceTree = SOURCE_ROOT; };
+		335F55151C5658D10017F35F /* ScoresViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ScoresViewController.swift; sourceTree = "<group>"; };
+		335F55171C5775100017F35F /* EasyScoresViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EasyScoresViewController.swift; sourceTree = "<group>"; };
 		337C80E01C3FEE5A007D51F4 /* QuizMe.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = QuizMe.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		337C80E31C3FEE5A007D51F4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		337C80E51C3FEE5A007D51F4 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -22,6 +92,24 @@
 		337C80EA1C3FEE5A007D51F4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		337C80ED1C3FEE5A007D51F4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		337C80EF1C3FEE5A007D51F4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		337C80F51C3FF4DC007D51F4 /* SettingsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
+		337C80F71C3FF52F007D51F4 /* EasyRoundViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EasyRoundViewController.swift; sourceTree = "<group>"; };
+		337C80F91C3FF542007D51F4 /* AverageRoundViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AverageRoundViewController.swift; sourceTree = "<group>"; };
+		337C80FB1C3FF566007D51F4 /* DifficultRoundViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DifficultRoundViewController.swift; sourceTree = "<group>"; };
+		337C80FD1C3FF575007D51F4 /* FullRoundViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FullRoundViewController.swift; sourceTree = "<group>"; };
+		337C81001C3FF88D007D51F4 /* ipadbg@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ipadbg@2x.png"; sourceTree = "<group>"; };
+		337C81011C3FF88D007D51F4 /* iphone4bg@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iphone4bg@2x.png"; sourceTree = "<group>"; };
+		337C81021C3FF88D007D51F4 /* iphone5bg@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iphone5bg@2x.png"; sourceTree = "<group>"; };
+		337C81031C3FF88D007D51F4 /* iphone6bg@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iphone6bg@2x.png"; sourceTree = "<group>"; };
+		337C81041C3FF88D007D51F4 /* iphone6plusbg@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iphone6plusbg@2x.png"; sourceTree = "<group>"; };
+		3383B8931C68055500D7A831 /* Extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Extensions.swift; path = ../Extensions.swift; sourceTree = "<group>"; };
+		339C3CB21C47D2A300C8947F /* EasyRound.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = EasyRound.plist; sourceTree = "<group>"; };
+		339C3CB31C47D2A300C8947F /* AverageRound.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = AverageRound.plist; sourceTree = "<group>"; };
+		339C3CB41C47D2A300C8947F /* FullRound.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = FullRound.plist; sourceTree = "<group>"; };
+		339C3CB51C47D2A300C8947F /* DifficultRound.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = DifficultRound.plist; sourceTree = "<group>"; };
+		339C3CBB1C47D35400C8947F /* fig0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fig0.png; sourceTree = "<group>"; };
+		339C3CBC1C47D35400C8947F /* fig1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fig1.png; sourceTree = "<group>"; };
+		339C3CBF1C47D3C600C8947F /* Configuration.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Configuration.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -29,12 +117,23 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				335F55081C53D9FB0017F35F /* Charts.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		335F54FD1C53D9A90017F35F /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				335F55031C53D9A90017F35F /* Charts.framework */,
+				335F55051C53D9A90017F35F /* Charts.framework */,
+				335F55071C53D9A90017F35F /* ChartsTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
 		337C80D71C3FEE59007D51F4 = {
 			isa = PBXGroup;
 			children = (
@@ -54,14 +153,59 @@
 		337C80E21C3FEE5A007D51F4 /* QuizMe */ = {
 			isa = PBXGroup;
 			children = (
+				339C3CB11C47D26E00C8947F /* Resources */,
+				337C80FF1C3FF846007D51F4 /* Images */,
 				337C80E31C3FEE5A007D51F4 /* AppDelegate.swift */,
 				337C80E51C3FEE5A007D51F4 /* ViewController.swift */,
 				337C80E71C3FEE5A007D51F4 /* Main.storyboard */,
+				337C80F51C3FF4DC007D51F4 /* SettingsViewController.swift */,
+				337C80F71C3FF52F007D51F4 /* EasyRoundViewController.swift */,
+				337C80F91C3FF542007D51F4 /* AverageRoundViewController.swift */,
+				337C80FB1C3FF566007D51F4 /* DifficultRoundViewController.swift */,
+				337C80FD1C3FF575007D51F4 /* FullRoundViewController.swift */,
+				335F54FC1C53D9A90017F35F /* Charts.xcodeproj */,
 				337C80EA1C3FEE5A007D51F4 /* Assets.xcassets */,
 				337C80EC1C3FEE5A007D51F4 /* LaunchScreen.storyboard */,
 				337C80EF1C3FEE5A007D51F4 /* Info.plist */,
+				339C3CBF1C47D3C600C8947F /* Configuration.swift */,
+				335F55151C5658D10017F35F /* ScoresViewController.swift */,
+				335F55171C5775100017F35F /* EasyScoresViewController.swift */,
+				3383B8931C68055500D7A831 /* Extensions.swift */,
 			);
 			path = QuizMe;
+			sourceTree = "<group>";
+		};
+		337C80FF1C3FF846007D51F4 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				339C3CBA1C47D2F900C8947F /* Quiz Images */,
+				337C81001C3FF88D007D51F4 /* ipadbg@2x.png */,
+				337C81011C3FF88D007D51F4 /* iphone4bg@2x.png */,
+				337C81021C3FF88D007D51F4 /* iphone5bg@2x.png */,
+				337C81031C3FF88D007D51F4 /* iphone6bg@2x.png */,
+				337C81041C3FF88D007D51F4 /* iphone6plusbg@2x.png */,
+			);
+			name = Images;
+			sourceTree = "<group>";
+		};
+		339C3CB11C47D26E00C8947F /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				339C3CB21C47D2A300C8947F /* EasyRound.plist */,
+				339C3CB31C47D2A300C8947F /* AverageRound.plist */,
+				339C3CB41C47D2A300C8947F /* FullRound.plist */,
+				339C3CB51C47D2A300C8947F /* DifficultRound.plist */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		339C3CBA1C47D2F900C8947F /* Quiz Images */ = {
+			isa = PBXGroup;
+			children = (
+				339C3CBB1C47D35400C8947F /* fig0.png */,
+				339C3CBC1C47D35400C8947F /* fig1.png */,
+			);
+			name = "Quiz Images";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -74,10 +218,12 @@
 				337C80DC1C3FEE59007D51F4 /* Sources */,
 				337C80DD1C3FEE59007D51F4 /* Frameworks */,
 				337C80DE1C3FEE59007D51F4 /* Resources */,
+				335F550C1C53D9FB0017F35F /* Embed Frameworks */,
 			);
 			buildRules = (
 			);
 			dependencies = (
+				335F550B1C53D9FB0017F35F /* PBXTargetDependency */,
 			);
 			name = QuizMe;
 			productName = QuizMe;
@@ -96,6 +242,7 @@
 				TargetAttributes = {
 					337C80DF1C3FEE59007D51F4 = {
 						CreatedOnToolsVersion = 7.2;
+						DevelopmentTeam = FFQ7W4FSZ4;
 					};
 				};
 			};
@@ -110,6 +257,12 @@
 			mainGroup = 337C80D71C3FEE59007D51F4;
 			productRefGroup = 337C80E11C3FEE5A007D51F4 /* Products */;
 			projectDirPath = "";
+			projectReferences = (
+				{
+					ProductGroup = 335F54FD1C53D9A90017F35F /* Products */;
+					ProjectRef = 335F54FC1C53D9A90017F35F /* Charts.xcodeproj */;
+				},
+			);
 			projectRoot = "";
 			targets = (
 				337C80DF1C3FEE59007D51F4 /* QuizMe */,
@@ -117,14 +270,49 @@
 		};
 /* End PBXProject section */
 
+/* Begin PBXReferenceProxy section */
+		335F55031C53D9A90017F35F /* Charts.framework */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			path = Charts.framework;
+			remoteRef = 335F55021C53D9A90017F35F /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		335F55051C53D9A90017F35F /* Charts.framework */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			path = Charts.framework;
+			remoteRef = 335F55041C53D9A90017F35F /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		335F55071C53D9A90017F35F /* ChartsTests.xctest */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.cfbundle;
+			path = ChartsTests.xctest;
+			remoteRef = 335F55061C53D9A90017F35F /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+/* End PBXReferenceProxy section */
+
 /* Begin PBXResourcesBuildPhase section */
 		337C80DE1C3FEE59007D51F4 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				337C81071C3FF88D007D51F4 /* iphone5bg@2x.png in Resources */,
 				337C80EE1C3FEE5A007D51F4 /* LaunchScreen.storyboard in Resources */,
+				337C81081C3FF88D007D51F4 /* iphone6bg@2x.png in Resources */,
+				337C81051C3FF88D007D51F4 /* ipadbg@2x.png in Resources */,
+				339C3CBD1C47D35400C8947F /* fig0.png in Resources */,
 				337C80EB1C3FEE5A007D51F4 /* Assets.xcassets in Resources */,
+				339C3CBE1C47D35400C8947F /* fig1.png in Resources */,
+				339C3CB71C47D2A300C8947F /* AverageRound.plist in Resources */,
+				339C3CB61C47D2A300C8947F /* EasyRound.plist in Resources */,
 				337C80E91C3FEE5A007D51F4 /* Main.storyboard in Resources */,
+				339C3CB91C47D2A300C8947F /* DifficultRound.plist in Resources */,
+				337C81061C3FF88D007D51F4 /* iphone4bg@2x.png in Resources */,
+				339C3CB81C47D2A300C8947F /* FullRound.plist in Resources */,
+				337C81091C3FF88D007D51F4 /* iphone6plusbg@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -136,11 +324,28 @@
 			buildActionMask = 2147483647;
 			files = (
 				337C80E61C3FEE5A007D51F4 /* ViewController.swift in Sources */,
+				335F55181C5775100017F35F /* EasyScoresViewController.swift in Sources */,
+				337C80F81C3FF52F007D51F4 /* EasyRoundViewController.swift in Sources */,
+				337C80FE1C3FF575007D51F4 /* FullRoundViewController.swift in Sources */,
+				337C80FA1C3FF542007D51F4 /* AverageRoundViewController.swift in Sources */,
+				335F55161C5658D10017F35F /* ScoresViewController.swift in Sources */,
 				337C80E41C3FEE5A007D51F4 /* AppDelegate.swift in Sources */,
+				337C80FC1C3FF566007D51F4 /* DifficultRoundViewController.swift in Sources */,
+				339C3CC01C47D3C600C8947F /* Configuration.swift in Sources */,
+				3383B8941C68055500D7A831 /* Extensions.swift in Sources */,
+				337C80F61C3FF4DC007D51F4 /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		335F550B1C53D9FB0017F35F /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = "Charts-iOS";
+			targetProxy = 335F550A1C53D9FB0017F35F /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
 		337C80E71C3FEE5A007D51F4 /* Main.storyboard */ = {
@@ -247,6 +452,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				EMBEDDED_CONTENT_CONTAINS_SWIFT = YES;
 				INFOPLIST_FILE = QuizMe/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = edu.aim.QuizMe;
@@ -258,6 +465,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				EMBEDDED_CONTENT_CONTAINS_SWIFT = YES;
 				INFOPLIST_FILE = QuizMe/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = edu.aim.QuizMe;
@@ -284,6 +493,7 @@
 				337C80F41C3FEE5A007D51F4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

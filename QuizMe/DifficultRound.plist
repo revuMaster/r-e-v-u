@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Questions</key>
+	<array>
+		<dict>
+			<key>Question</key>
+			<string>Write “ninety-eight thousand eighty-six” in figures.</string>
+			<key>Figure</key>
+			<string>o.png</string>
+			<key>CorrectAnswer</key>
+			<string>98,086</string>
+			<key>Answers</key>
+			<array>
+				<string>98,860</string>
+				<string>90,086</string>
+				<string>980,086</string>
+				<string>98,086</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>What is the value of 8 in 876,500?</string>
+			<key>Figure</key>
+			<string>o.png</string>
+			<key>CorrectAnswer</key>
+			<string>800,000</string>
+			<key>Answers</key>
+			<array>
+				<string>800,000</string>
+				<string>80,000</string>
+				<string>8,000</string>
+				<string>800</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Round each addend to the nearest hundred then estimate the sum: 749 + 465 + 893.</string>
+			<key>Figure</key>
+			<string>fig0.png</string>
+			<key>CorrectAnswer</key>
+			<string>2,100</string>
+			<key>Answers</key>
+			<array>
+				<string>210</string>
+				<string>21</string>
+				<string>2,100</string>
+				<string>21,000</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>How many times as great is the bold 5 from the italiced 5 in 3,578,352?</string>
+			<key>Figure</key>
+			<string>o.png</string>
+			<key>CorrectAnswer</key>
+			<string>10,000</string>
+			<key>Answers</key>
+			<array>
+				<string>1,000</string>
+				<string>10,000</string>
+				<string>100,000</string>
+				<string>100</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Round each addend to the nearest hundred then estimate the sum: 749 + 465 + 893.</string>
+			<key>Figure</key>
+			<string>fig0.png</string>
+			<key>CorrectAnswer</key>
+			<string>10,000</string>
+			<key>Answers</key>
+			<array>
+				<string>1,000</string>
+				<string>10,000</string>
+				<string>100,000</string>
+				<string>100</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>What is the smallest digit that can be placed on the blank to make 8_52 &gt; 8 458?</string>
+			<key>Figure</key>
+			<string>fig1.png</string>
+			<key>CorrectAnswer</key>
+			<string>5</string>
+			<key>Answers</key>
+			<array>
+				<string>2</string>
+				<string>3</string>
+				<string>4</string>
+				<string>5</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Write 4 x 10⁵ + 8 x 10⁴ + 9 x 10³ + 5 x 10² +8 x 10 + 7 in standard form.</string>
+			<key>Figure</key>
+			<string>fig0.png</string>
+			<key>CorrectAnswer</key>
+			<string>489,587</string>
+			<key>Answers</key>
+			<array>
+				<string>589,587</string>
+				<string>489,857</string>
+				<string>498,587</string>
+				<string>489,587</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Which one of these brands produces supercars?</string>
+			<key>Figure</key>
+			<string>fig1.png</string>
+			<key>CorrectAnswer</key>
+			<string>Koenigsegg</string>
+			<key>Answers</key>
+			<array>
+				<string>Ferrero</string>
+				<string>Coca Cola</string>
+				<string>Koenigsegg</string>
+				<string>Skoda</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Which one of these musicians wrote the song &quot;Mockingbird&quot;?</string>
+			<key>Figure</key>
+			<string>fig0.png</string>
+			<key>CorrectAnswer</key>
+			<string>Eminem</string>
+			<key>Answers</key>
+			<array>
+				<string>Eminem</string>
+				<string>Rihanna</string>
+				<string>50 Cent</string>
+				<string>Ed Sheeran</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Which one of these is not a religion?</string>
+			<key>Figure</key>
+			<string>fig1.png</string>
+			<key>CorrectAnswer</key>
+			<string>Squash</string>
+			<key>Answers</key>
+			<array>
+				<string>Christianity</string>
+				<string>Buddhism</string>
+				<string>Judaism</string>
+				<string>Squash</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Which one of these is the biggest?</string>
+			<key>Figure</key>
+			<string>fig0.png</string>
+			<key>CorrectAnswer</key>
+			<string>Sun</string>
+			<key>Answers</key>
+			<array>
+				<string>Earth</string>
+				<string>Sun</string>
+				<string>Moon</string>
+				<string>Elephant</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Which one of these is the smallest?</string>
+			<key>Figure</key>
+			<string>fig1.png</string>
+			<key>CorrectAnswer</key>
+			<string>Flea</string>
+			<key>Answers</key>
+			<array>
+				<string>Mouse</string>
+				<string>Flea</string>
+				<string>Lego Brick</string>
+				<string>Marble</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>The fastest running animal is the...?</string>
+			<key>Figure</key>
+			<string>fig0.png</string>
+			<key>CorrectAnswer</key>
+			<string>Cheetah</string>
+			<key>Answers</key>
+			<array>
+				<string>Lion</string>
+				<string>Zebra</string>
+				<string>Bear</string>
+				<string>Cheetah</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Which prefix increases the unit by the factor 1024?</string>
+			<key>Figure</key>
+			<string>fig1.png</string>
+			<key>CorrectAnswer</key>
+			<string>mega</string>
+			<key>Answers</key>
+			<array>
+				<string>giga</string>
+				<string>tera</string>
+				<string>mega</string>
+				<string>ultra</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>The scary animal in the Jaws movies is a...?</string>
+			<key>Figure</key>
+			<string>fig0.png</string>
+			<key>CorrectAnswer</key>
+			<string>Shark</string>
+			<key>Answers</key>
+			<array>
+				<string>Shark</string>
+				<string>Bear</string>
+				<string>Lion</string>
+				<string>Whale</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>What is required for any substance to burn?</string>
+			<key>Figure</key>
+			<string>fig1.png</string>
+			<key>CorrectAnswer</key>
+			<string>Oxygen</string>
+			<key>Answers</key>
+			<array>
+				<string>Water</string>
+				<string>Wood</string>
+				<string>Oxygen</string>
+				<string>Helium</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>What is often referred to as &quot;White Gold&quot;?</string>
+			<key>Figure</key>
+			<string>fig0.png</string>
+			<key>CorrectAnswer</key>
+			<string>Salt</string>
+			<key>Answers</key>
+			<array>
+				<string>Salt</string>
+				<string>Flour</string>
+				<string>Styrofoam</string>
+				<string>Silver</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>What is the national bird of the USA?</string>
+			<key>Figure</key>
+			<string>fig1.png</string>
+			<key>CorrectAnswer</key>
+			<string>Bald Eagle</string>
+			<key>Answers</key>
+			<array>
+				<string>Vulture</string>
+				<string>Bald Eagle</string>
+				<string>Ostrich</string>
+				<string>Blackbird</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Which one of these animals can&apos;t fly?</string>
+			<key>Figure</key>
+			<string>fig0.png</string>
+			<key>CorrectAnswer</key>
+			<string>Penguin</string>
+			<key>Answers</key>
+			<array>
+				<string>Eagle</string>
+				<string>Mockingbird</string>
+				<string>Penguin</string>
+				<string>Hawk</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>How many points does a football team get for a touchdown?</string>
+			<key>Figure</key>
+			<string>fig1.png</string>
+			<key>CorrectAnswer</key>
+			<string>6</string>
+			<key>Answers</key>
+			<array>
+				<string>4</string>
+				<string>5</string>
+				<string>7</string>
+				<string>6</string>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
