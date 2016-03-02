@@ -93,7 +93,7 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" translatesAutoresizingMaskIntoConstraints="NO" id="CVJ-35-9Tu">
-                                <rect key="frame" x="0.0" y="64" width="600" height="402"/>
+                                <rect key="frame" x="0.0" y="99" width="600" height="402"/>
                                 <subviews>
                                     <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="3fH-Im-y0H">
                                         <rect key="frame" x="0.0" y="0.0" width="600" height="67"/>
@@ -103,7 +103,7 @@
                                                 <color key="backgroundColor" red="0.3294117647" green="0.78039215689999997" blue="0.98823529409999999" alpha="1" colorSpace="calibratedRGB"/>
                                                 <constraints>
                                                     <constraint firstAttribute="width" constant="300" id="Ln7-bc-XTT"/>
-                                                    <constraint firstAttribute="width" constant="300" id="b9j-rh-aSV"/>
+                                                    <constraint firstAttribute="width" constant="300" id="kaP-77-Z0u"/>
                                                 </constraints>
                                                 <fontDescription key="fontDescription" name="AvenirNext-Bold" family="Avenir Next" pointSize="22"/>
                                                 <state key="normal" title="Easy Round">
@@ -123,10 +123,10 @@
                                         <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
                                         <constraints>
                                             <constraint firstItem="B7h-PC-Rai" firstAttribute="centerX" secondItem="3fH-Im-y0H" secondAttribute="centerX" id="4Kh-4L-aHf"/>
+                                            <constraint firstItem="B7h-PC-Rai" firstAttribute="top" secondItem="3fH-Im-y0H" secondAttribute="top" constant="4" id="Qpd-Pm-MNC"/>
+                                            <constraint firstItem="B7h-PC-Rai" firstAttribute="centerX" secondItem="3fH-Im-y0H" secondAttribute="centerX" id="RAj-Zt-T0R"/>
                                             <constraint firstItem="B7h-PC-Rai" firstAttribute="centerY" secondItem="3fH-Im-y0H" secondAttribute="centerY" id="Yaj-5e-kve"/>
-                                            <constraint firstItem="B7h-PC-Rai" firstAttribute="centerY" secondItem="3fH-Im-y0H" secondAttribute="centerY" id="r2b-vM-3Xm"/>
-                                            <constraint firstItem="B7h-PC-Rai" firstAttribute="top" secondItem="3fH-Im-y0H" secondAttribute="top" constant="4" id="rdH-pY-mEO"/>
-                                            <constraint firstItem="B7h-PC-Rai" firstAttribute="centerX" secondItem="3fH-Im-y0H" secondAttribute="centerX" id="rtt-kB-Pam"/>
+                                            <constraint firstItem="B7h-PC-Rai" firstAttribute="centerY" secondItem="3fH-Im-y0H" secondAttribute="centerY" id="k6z-Zx-16b"/>
                                             <constraint firstItem="B7h-PC-Rai" firstAttribute="top" secondItem="3fH-Im-y0H" secondAttribute="top" constant="4" id="wxl-CW-zai"/>
                                         </constraints>
                                         <variation key="default">
@@ -144,7 +144,7 @@
                                                 <rect key="frame" x="150" y="4" width="300" height="60"/>
                                                 <color key="backgroundColor" red="0.3294117647" green="0.78039215689999997" blue="0.98823529409999999" alpha="1" colorSpace="calibratedRGB"/>
                                                 <constraints>
-                                                    <constraint firstAttribute="width" constant="300" id="NJO-hl-FTE"/>
+                                                    <constraint firstAttribute="width" constant="300" id="Hsa-xV-SRz"/>
                                                     <constraint firstAttribute="width" constant="300" id="jev-Py-2vn"/>
                                                 </constraints>
                                                 <fontDescription key="fontDescription" name="AvenirNext-Bold" family="Avenir Next" pointSize="22"/>
@@ -164,11 +164,11 @@
                                         </subviews>
                                         <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
                                         <constraints>
-                                            <constraint firstItem="ywA-1d-0fz" firstAttribute="centerY" secondItem="fHc-TQ-yN2" secondAttribute="centerY" id="Asf-3r-qpY"/>
+                                            <constraint firstItem="ywA-1d-0fz" firstAttribute="centerY" secondItem="fHc-TQ-yN2" secondAttribute="centerY" id="308-an-VYw"/>
+                                            <constraint firstItem="ywA-1d-0fz" firstAttribute="centerX" secondItem="fHc-TQ-yN2" secondAttribute="centerX" id="CWW-RE-BnS"/>
                                             <constraint firstItem="ywA-1d-0fz" firstAttribute="top" secondItem="fHc-TQ-yN2" secondAttribute="top" constant="4" id="M9T-rd-wI4"/>
                                             <constraint firstItem="ywA-1d-0fz" firstAttribute="centerY" secondItem="fHc-TQ-yN2" secondAttribute="centerY" id="RWK-m3-Ekd"/>
-                                            <constraint firstItem="ywA-1d-0fz" firstAttribute="top" secondItem="fHc-TQ-yN2" secondAttribute="top" constant="4" id="XlI-hv-Cr5"/>
-                                            <constraint firstItem="ywA-1d-0fz" firstAttribute="centerX" secondItem="fHc-TQ-yN2" secondAttribute="centerX" id="bC5-Mv-ZCD"/>
+                                            <constraint firstItem="ywA-1d-0fz" firstAttribute="top" secondItem="fHc-TQ-yN2" secondAttribute="top" constant="4" id="XQG-rB-xib"/>
                                             <constraint firstItem="ywA-1d-0fz" firstAttribute="centerX" secondItem="fHc-TQ-yN2" secondAttribute="centerX" id="xVV-Bg-7YU"/>
                                         </constraints>
                                         <variation key="default">
@@ -186,8 +186,8 @@
                                                 <rect key="frame" x="150" y="4" width="300" height="60"/>
                                                 <color key="backgroundColor" red="0.3294117647" green="0.78039215689999997" blue="0.98823529409999999" alpha="1" colorSpace="calibratedRGB"/>
                                                 <constraints>
-                                                    <constraint firstAttribute="width" constant="300" id="EBq-K5-psh"/>
                                                     <constraint firstAttribute="width" constant="300" id="eSS-hI-0Eh"/>
+                                                    <constraint firstAttribute="width" constant="300" id="kho-lt-g7x"/>
                                                 </constraints>
                                                 <fontDescription key="fontDescription" name="AvenirNext-Bold" family="Avenir Next" pointSize="22"/>
                                                 <state key="normal" title="Difficult Round">
@@ -207,11 +207,11 @@
                                         <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
                                         <constraints>
                                             <constraint firstItem="qxM-pw-ZJ9" firstAttribute="centerX" secondItem="nFp-lE-eWS" secondAttribute="centerX" id="0c9-ic-EyE"/>
-                                            <constraint firstItem="qxM-pw-ZJ9" firstAttribute="centerY" secondItem="nFp-lE-eWS" secondAttribute="centerY" id="0wn-Qi-TYI"/>
-                                            <constraint firstItem="qxM-pw-ZJ9" firstAttribute="centerX" secondItem="nFp-lE-eWS" secondAttribute="centerX" id="WPi-kR-yme"/>
                                             <constraint firstItem="qxM-pw-ZJ9" firstAttribute="top" secondItem="nFp-lE-eWS" secondAttribute="top" constant="4" id="ZkN-WT-wlh"/>
-                                            <constraint firstItem="qxM-pw-ZJ9" firstAttribute="top" secondItem="nFp-lE-eWS" secondAttribute="top" constant="4" id="Zzk-9S-iP9"/>
                                             <constraint firstItem="qxM-pw-ZJ9" firstAttribute="centerY" secondItem="nFp-lE-eWS" secondAttribute="centerY" id="fRt-jt-8xR"/>
+                                            <constraint firstItem="qxM-pw-ZJ9" firstAttribute="centerY" secondItem="nFp-lE-eWS" secondAttribute="centerY" id="rO3-ro-e8s"/>
+                                            <constraint firstItem="qxM-pw-ZJ9" firstAttribute="centerX" secondItem="nFp-lE-eWS" secondAttribute="centerX" id="vnG-1E-tTe"/>
+                                            <constraint firstItem="qxM-pw-ZJ9" firstAttribute="top" secondItem="nFp-lE-eWS" secondAttribute="top" constant="4" id="wVM-w4-dSK"/>
                                         </constraints>
                                         <variation key="default">
                                             <mask key="constraints">
@@ -228,7 +228,7 @@
                                                 <rect key="frame" x="150" y="4" width="300" height="60"/>
                                                 <color key="backgroundColor" red="0.3294117647" green="0.78039215689999997" blue="0.98823529409999999" alpha="1" colorSpace="calibratedRGB"/>
                                                 <constraints>
-                                                    <constraint firstAttribute="width" constant="300" id="7YY-Fe-aG5"/>
+                                                    <constraint firstAttribute="width" constant="300" id="pCq-d1-t91"/>
                                                     <constraint firstAttribute="width" constant="300" id="zll-BK-rm7"/>
                                                 </constraints>
                                                 <fontDescription key="fontDescription" name="AvenirNext-Bold" family="Avenir Next" pointSize="22"/>
@@ -248,12 +248,12 @@
                                         </subviews>
                                         <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
                                         <constraints>
-                                            <constraint firstItem="1Fm-1M-cJb" firstAttribute="centerX" secondItem="GPv-ub-kdv" secondAttribute="centerX" id="4nl-mF-I5c"/>
                                             <constraint firstItem="1Fm-1M-cJb" firstAttribute="centerY" secondItem="GPv-ub-kdv" secondAttribute="centerY" id="Ebe-V9-2pY"/>
                                             <constraint firstItem="1Fm-1M-cJb" firstAttribute="top" secondItem="GPv-ub-kdv" secondAttribute="top" constant="4" id="Kfb-MP-XrL"/>
+                                            <constraint firstItem="1Fm-1M-cJb" firstAttribute="centerX" secondItem="GPv-ub-kdv" secondAttribute="centerX" id="Nra-8f-RIQ"/>
                                             <constraint firstItem="1Fm-1M-cJb" firstAttribute="centerX" secondItem="GPv-ub-kdv" secondAttribute="centerX" id="Pfl-FH-mBj"/>
-                                            <constraint firstItem="1Fm-1M-cJb" firstAttribute="centerY" secondItem="GPv-ub-kdv" secondAttribute="centerY" id="S90-Ib-T0B"/>
-                                            <constraint firstItem="1Fm-1M-cJb" firstAttribute="top" secondItem="GPv-ub-kdv" secondAttribute="top" constant="4" id="f25-MI-SjG"/>
+                                            <constraint firstItem="1Fm-1M-cJb" firstAttribute="centerY" secondItem="GPv-ub-kdv" secondAttribute="centerY" id="Ufs-Ty-qBL"/>
+                                            <constraint firstItem="1Fm-1M-cJb" firstAttribute="top" secondItem="GPv-ub-kdv" secondAttribute="top" constant="4" id="Vce-sf-x2O"/>
                                         </constraints>
                                         <variation key="default">
                                             <mask key="constraints">
@@ -269,7 +269,7 @@
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Aze-op-h6r">
                                                 <rect key="frame" x="274" y="41" width="52" height="52"/>
                                                 <constraints>
-                                                    <constraint firstAttribute="width" constant="52" id="f2B-WT-rFZ"/>
+                                                    <constraint firstAttribute="width" constant="52" id="dtY-Pe-TM6"/>
                                                 </constraints>
                                                 <fontDescription key="fontDescription" name="AvenirNext-Bold" family="Avenir Next" pointSize="20"/>
                                                 <state key="normal" title="Play"/>
@@ -280,12 +280,12 @@
                                         </subviews>
                                         <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
                                         <constraints>
-                                            <constraint firstItem="Aze-op-h6r" firstAttribute="centerY" secondItem="KnR-GT-UI0" secondAttribute="centerY" id="483-dC-W0e"/>
                                             <constraint firstItem="Aze-op-h6r" firstAttribute="top" secondItem="KnR-GT-UI0" secondAttribute="top" constant="41" id="4Bj-o0-yg7"/>
-                                            <constraint firstItem="Aze-op-h6r" firstAttribute="top" secondItem="KnR-GT-UI0" secondAttribute="top" constant="41" id="4Pr-cJ-Rz3"/>
+                                            <constraint firstItem="Aze-op-h6r" firstAttribute="centerY" secondItem="KnR-GT-UI0" secondAttribute="centerY" id="MdL-cx-lM8"/>
                                             <constraint firstItem="Aze-op-h6r" firstAttribute="centerX" secondItem="KnR-GT-UI0" secondAttribute="centerX" id="QJr-Fo-gqg"/>
                                             <constraint firstItem="Aze-op-h6r" firstAttribute="centerY" secondItem="KnR-GT-UI0" secondAttribute="centerY" id="Wwa-qr-Wbb"/>
-                                            <constraint firstItem="Aze-op-h6r" firstAttribute="centerX" secondItem="KnR-GT-UI0" secondAttribute="centerX" id="vNa-A7-BsY"/>
+                                            <constraint firstItem="Aze-op-h6r" firstAttribute="centerX" secondItem="KnR-GT-UI0" secondAttribute="centerX" id="mRj-Dr-IJj"/>
+                                            <constraint firstItem="Aze-op-h6r" firstAttribute="top" secondItem="KnR-GT-UI0" secondAttribute="top" constant="41" id="qKM-Bv-CRe"/>
                                         </constraints>
                                         <variation key="default">
                                             <mask key="constraints">
@@ -297,15 +297,15 @@
                                     </view>
                                 </subviews>
                                 <constraints>
-                                    <constraint firstItem="KnR-GT-UI0" firstAttribute="top" secondItem="CVJ-35-9Tu" secondAttribute="top" constant="268" id="1Jl-Bw-tAb"/>
-                                    <constraint firstItem="fHc-TQ-yN2" firstAttribute="top" secondItem="CVJ-35-9Tu" secondAttribute="top" constant="67" id="9vj-yb-nwa"/>
+                                    <constraint firstItem="nFp-lE-eWS" firstAttribute="top" secondItem="CVJ-35-9Tu" secondAttribute="top" constant="134" id="6V0-u7-Y5V"/>
                                     <constraint firstItem="fHc-TQ-yN2" firstAttribute="top" secondItem="CVJ-35-9Tu" secondAttribute="top" constant="204" id="Apy-bi-Rdb"/>
                                     <constraint firstItem="nFp-lE-eWS" firstAttribute="top" secondItem="CVJ-35-9Tu" secondAttribute="top" constant="271" id="FfT-4E-bmr"/>
-                                    <constraint firstItem="GPv-ub-kdv" firstAttribute="top" secondItem="CVJ-35-9Tu" secondAttribute="top" constant="201" id="J3Q-0z-PBT"/>
                                     <constraint firstItem="KnR-GT-UI0" firstAttribute="top" secondItem="CVJ-35-9Tu" secondAttribute="top" constant="405" id="Lh8-1m-NDb"/>
                                     <constraint firstItem="GPv-ub-kdv" firstAttribute="top" secondItem="CVJ-35-9Tu" secondAttribute="top" constant="338" id="ZUQ-CR-Bo4"/>
-                                    <constraint firstItem="nFp-lE-eWS" firstAttribute="top" secondItem="CVJ-35-9Tu" secondAttribute="top" constant="134" id="o6r-tc-T7g"/>
+                                    <constraint firstItem="fHc-TQ-yN2" firstAttribute="top" secondItem="CVJ-35-9Tu" secondAttribute="top" constant="67" id="m8D-zl-iv1"/>
+                                    <constraint firstItem="GPv-ub-kdv" firstAttribute="top" secondItem="CVJ-35-9Tu" secondAttribute="top" constant="201" id="mx7-di-6bl"/>
                                     <constraint firstItem="3fH-Im-y0H" firstAttribute="top" secondItem="CVJ-35-9Tu" secondAttribute="top" constant="137" id="tc9-FL-eI2"/>
+                                    <constraint firstItem="KnR-GT-UI0" firstAttribute="top" secondItem="CVJ-35-9Tu" secondAttribute="top" constant="268" id="vJ3-Ac-N3c"/>
                                 </constraints>
                                 <variation key="default">
                                     <mask key="constraints">
@@ -320,13 +320,13 @@
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                         <constraints>
-                            <constraint firstItem="XKo-Zx-Iii" firstAttribute="top" secondItem="CVJ-35-9Tu" secondAttribute="bottom" constant="134" id="DoM-wB-Zpz"/>
-                            <constraint firstAttribute="trailing" secondItem="CVJ-35-9Tu" secondAttribute="trailing" id="GXB-Kl-l6S"/>
+                            <constraint firstAttribute="trailing" secondItem="CVJ-35-9Tu" secondAttribute="trailing" id="A9O-BZ-DFP"/>
+                            <constraint firstItem="CVJ-35-9Tu" firstAttribute="leading" secondItem="4ud-q2-2XH" secondAttribute="leading" id="AhZ-sQ-ZTU"/>
+                            <constraint firstItem="CVJ-35-9Tu" firstAttribute="top" secondItem="jmA-po-FgX" secondAttribute="bottom" constant="35" id="GpR-hf-gCs"/>
                             <constraint firstItem="CVJ-35-9Tu" firstAttribute="leading" secondItem="4ud-q2-2XH" secondAttribute="leading" id="L5t-YS-3wY"/>
                             <constraint firstItem="CVJ-35-9Tu" firstAttribute="centerY" secondItem="4ud-q2-2XH" secondAttribute="centerY" constant="33" id="PmC-be-g5W"/>
-                            <constraint firstItem="CVJ-35-9Tu" firstAttribute="leading" secondItem="4ud-q2-2XH" secondAttribute="leading" id="cNu-uz-9bm"/>
                             <constraint firstItem="CVJ-35-9Tu" firstAttribute="centerX" secondItem="4ud-q2-2XH" secondAttribute="centerX" id="iqr-VO-LWX"/>
-                            <constraint firstItem="CVJ-35-9Tu" firstAttribute="top" secondItem="jmA-po-FgX" secondAttribute="bottom" id="uQZ-yQ-N3v"/>
+                            <constraint firstItem="XKo-Zx-Iii" firstAttribute="top" secondItem="CVJ-35-9Tu" secondAttribute="bottom" constant="99" id="yse-QP-t36"/>
                             <constraint firstItem="CVJ-35-9Tu" firstAttribute="top" secondItem="jmA-po-FgX" secondAttribute="bottom" id="zNw-bn-Ym9"/>
                         </constraints>
                         <variation key="default">
@@ -776,7 +776,7 @@
         <!--Easy Scores View Controller-->
         <scene sceneID="QN9-di-3vi">
             <objects>
-                <viewController id="wYl-oG-ADd" customClass="EasyScoresViewController" customModule="QuizMe" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="easyScoresViewController" id="wYl-oG-ADd" customClass="EasyScoresViewController" customModule="QuizMe" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="zTJ-K5-n7b"/>
                         <viewControllerLayoutGuide type="bottom" id="dtj-mb-VCc"/>

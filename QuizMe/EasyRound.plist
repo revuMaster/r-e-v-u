@@ -988,7 +988,7 @@
 			<key>Figure</key>
 			<string></string>
 			<key>CorrectAnswer</key>
-			<string>₱1,800.00</string>
+			<string>₱2,400.00</string>
 			<key>Answers</key>
 			<array>
 				<string>₱5,400.00</string>
@@ -1070,6 +1070,1236 @@
 				<string>85</string>
 				<string>100</string>
 				<string>90</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>A train left the station at 6:45 on Monday evening and traveled for 15 1/2 hours. What time and day did it arrive at its destination?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>Tuesday, 10:15 a.m.</string>
+			<key>Answers</key>
+			<array>
+				<string>Wednesday, 10:15 a.m.</string>
+				<string>Monday, 10:15 p.m.</string>
+				<string>Tuesday, 10:15 a.m.</string>
+				<string>Tuesday, 10:15 p.m.</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>A rectangle has a perimeter of 44cm and an area of 112cm². What is its possible dimension?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>14cm by 8cm</string>
+			<key>Answers</key>
+			<array>
+				<string>14cm by 6cm</string>
+				<string>14cm by 8cm</string>
+				<string>8cm by 24cm</string>
+				<string>12cm by 12cm</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Square tiles with a side of 20cm cost ₱32.50 each. How much will the tiles for a floor that is 2.8m by 3.4 cost?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>₱7,735.00</string>
+			<key>Answers</key>
+			<array>
+				<string>₱2,380.00</string>
+				<string>₱7,380.00</string>
+				<string>₱2,735.00</string>
+				<string>₱7,735.00</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Three-fifths of a group of 300 pupils are boys. If 1/4 of the boys and 2/5 of the girls went outing, how many pupils went outing?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>93</string>
+			<key>Answers</key>
+			<array>
+				<string>60</string>
+				<string>120</string>
+				<string>93</string>
+				<string>103</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>A six-digit number begins with 7 and is divisible by 9. All the digits are different. Find the smallest possible value of this number.</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>701,235</string>
+			<key>Answers</key>
+			<array>
+				<string>701,235</string>
+				<string>701,239</string>
+				<string>710,239</string>
+				<string>710,235</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>What is the largest three-digit number divisible by 4?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>996</string>
+			<key>Answers</key>
+			<array>
+				<string>992</string>
+				<string>994</string>
+				<string>996</string>
+				<string>998</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>One factor of a number is 22. What can the other factor be so that the product is between 250 and 300?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>13</string>
+			<key>Answers</key>
+			<array>
+				<string>10</string>
+				<string>13</string>
+				<string>16</string>
+				<string>7</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>If you skip count by 6 by saying 10 in the 1st number, 16 as the 2nd number and so on, what will you say as the 10th number?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>64</string>
+			<key>Answers</key>
+			<array>
+				<string>44</string>
+				<string>54</string>
+				<string>64</string>
+				<string>74</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>The product of 36 and 45 is 1,620. By what number will you multiply 45 to get 162,000?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>3,600</string>
+			<key>Answers</key>
+			<array>
+				<string>36</string>
+				<string>360</string>
+				<string>3,600</string>
+				<string>36,000</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>What is the least amount of squares that can be cut from a piece of paper 36cm by 48cm without any paper being wasted?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>12</string>
+			<key>Answers</key>
+			<array>
+				<string>13</string>
+				<string>12</string>
+				<string>11</string>
+				<string>10</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>If 2/3  of a number is 42, what is twice the number?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>126</string>
+			<key>Answers</key>
+			<array>
+				<string>140</string>
+				<string>84</string>
+				<string>126</string>
+				<string>63</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>If you save ₱5.00 on January 1, ₱10.00 on February 1, ₱15.00 on March 1 , and so on how much will you save on December 1?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>₱60.00</string>
+			<key>Answers</key>
+			<array>
+				<string>₱70.00</string>
+				<string>₱65.00</string>
+				<string>₱60.00</string>
+				<string>₱55.00</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Miss Lucy asked her pupils to open their book to the facing page numbers that add up to 165. What are the two page numbers?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>82 and 83</string>
+			<key>Answers</key>
+			<array>
+				<string>72 and 73</string>
+				<string>84 and 81</string>
+				<string>78 and 87</string>
+				<string>82 and 83</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Tom made a square garden 10m on each side. He fenced it with the posts 2m apart. How many posts did he use?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>20</string>
+			<key>Answers</key>
+			<array>
+				<string>22</string>
+				<string>21</string>
+				<string>20</string>
+				<string>19</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Which fraction is the smallest among 10/11, 11/12, 12/13,13/14?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>10/11</string>
+			<key>Answers</key>
+			<array>
+				<string>10/11</string>
+				<string>11/12</string>
+				<string>12/13</string>
+				<string>13/14</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>6 2/3 is equal to how many 12ths?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>80</string>
+			<key>Answers</key>
+			<array>
+				<string>80</string>
+				<string>80/12</string>
+				<string>20</string>
+				<string>20/12</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>1/5 of 90 is how much less than 2/3 of 72?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>30</string>
+			<key>Answers</key>
+			<array>
+				<string>18</string>
+				<string>30</string>
+				<string>48</string>
+				<string>66</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>What is the remainder when 7,578 is divided by 49?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>32</string>
+			<key>Answers</key>
+			<array>
+				<string>29</string>
+				<string>30</string>
+				<string>31</string>
+				<string>32</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>What is the smallest digit that can be used to fill the blank in 46,74_ so that it is divisible by 12?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>0</string>
+			<key>Answers</key>
+			<array>
+				<string>6</string>
+				<string>4</string>
+				<string>2</string>
+				<string>0</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Our assignment is on two different pages of a book. The difference between the numbers is 5 and the sum is 71. What are the numbers?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>33 and 38</string>
+			<key>Answers</key>
+			<array>
+				<string>41 and 30</string>
+				<string>37 and 34</string>
+				<string>33 and 38</string>
+				<string>29 and 42</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>A flower shop had 20 bundles of roses with 18 in each bundle. The storekeeper made smaller bundles of 12 roses from them. How many bundles did he make?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>30</string>
+			<key>Answers</key>
+			<array>
+				<string>29</string>
+				<string>30</string>
+				<string>31</string>
+				<string>32</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>If 3 apples cost ₱50.00 and three oranges cost ₱64.00, how much will a dozen of each fruit cost?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>₱456.00</string>
+			<key>Answers</key>
+			<array>
+				<string>₱114.00</string>
+				<string>₱200.00</string>
+				<string>₱256.00</string>
+				<string>₱456.00</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>How many ten thousands are there in 10 billion?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>1,000,000</string>
+			<key>Answers</key>
+			<array>
+				<string>10,000,000</string>
+				<string>10,000</string>
+				<string>100,000</string>
+				<string>1,000,000</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>A pair of shoes were bought for ₱450.00 at 60% discount. What is its regular price?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>₱1,125.00</string>
+			<key>Answers</key>
+			<array>
+				<string>₱270.00</string>
+				<string>₱1,125.00</string>
+				<string>₱540.00</string>
+				<string>₱810.00</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Roy is 5 years older than his sister. In 4 years’ time, the sum of their ages will be 25. How old is Roy?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>11</string>
+			<key>Answers</key>
+			<array>
+				<string>11</string>
+				<string>12</string>
+				<string>13</string>
+				<string>14</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>In a farm, there are pigs and chickens. Nina counted 27 heads and 78 legs. How many chickens are there?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>15</string>
+			<key>Answers</key>
+			<array>
+				<string>12</string>
+				<string>13</string>
+				<string>14</string>
+				<string>15</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>When 8 is added to the numerator and denominator of 7/13, how much bigger is the resulting fraction?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>16/91</string>
+			<key>Answers</key>
+			<array>
+				<string>16/49</string>
+				<string>16/91</string>
+				<string>65/49</string>
+				<string>65/91</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>The length of a rectangle is 6cm more than its width. If the perimeter is 60cm, what is the area of the rectangle?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>216 cm²</string>
+			<key>Answers</key>
+			<array>
+				<string>901 cm²</string>
+				<string>324 cm²</string>
+				<string>216 cm²</string>
+				<string>144 cm²</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Rina has 36-pesos in 25¢, 1-peso coins and 5-peso coins. How many 5-peso coins has she if she has 22 coins?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>5</string>
+			<key>Answers</key>
+			<array>
+				<string>5</string>
+				<string>8</string>
+				<string>9</string>
+				<string>4</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>If you add 27 to my number, divide the result by 3 and add 45 you get 80.  What is my number?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>78</string>
+			<key>Answers</key>
+			<array>
+				<string>105</string>
+				<string>35</string>
+				<string>78</string>
+				<string>240</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>The average weight of 5 students is 41 kilograms. The weight of a 6th student is 50 kilograms. What is the average weight of the 6 students? </string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>42 1/2</string>
+			<key>Answers</key>
+			<array>
+				<string>45 1/2</string>
+				<string>44 1/2</string>
+				<string>43 1/2</string>
+				<string>42 1/2</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Jake and Ron have ₱1,592.00 together. Pat has ₱40.00 more than Jake. If Ron has ₱292.00 less than Jake, how much does Pat have?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>₱982.00</string>
+			<key>Answers</key>
+			<array>
+				<string>₱650.00</string>
+				<string>₱942.00</string>
+				<string>₱982.00</string>
+				<string>₱1,342.00</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>If you add 28 to my number, divide the sum by 3 and then multiply the result by 4, you get 68. What is the number?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>23</string>
+			<key>Answers</key>
+			<array>
+				<string>22</string>
+				<string>23</string>
+				<string>24</string>
+				<string>25</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>The base of an isosceles triangle is 6cm more than each leg. If the perimeter is 57cm, find the length of the base.</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>23 cm</string>
+			<key>Answers</key>
+			<array>
+				<string>21 cm</string>
+				<string>22 cm</string>
+				<string>23 cm</string>
+				<string>24 cm</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Change 0.125 to a fraction in lowest terms.</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>1/8</string>
+			<key>Answers</key>
+			<array>
+				<string>1/2</string>
+				<string>1/4</string>
+				<string>1/8</string>
+				<string>1/3</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>In 𝟔44,651, how many times as great is the bold 𝟔 as the 6 that is not bold?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>1,000</string>
+			<key>Answers</key>
+			<array>
+				<string>10</string>
+				<string>100</string>
+				<string>1,000</string>
+				<string>10,000</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Three numbers are in the ratio 3:4:5 if the middle number is 48, what is the sum of the three numbers?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>144</string>
+			<key>Answers</key>
+			<array>
+				<string>36</string>
+				<string>60</string>
+				<string>144</string>
+				<string>240</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>If 3,254 x 63.58 = 3.254 x N, what is N?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>63,580</string>
+			<key>Answers</key>
+			<array>
+				<string>63,580</string>
+				<string>32,540</string>
+				<string>6,358</string>
+				<string>3,254</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>By how much is 2⁷ greater than 7²?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>79</string>
+			<key>Answers</key>
+			<array>
+				<string>77</string>
+				<string>78</string>
+				<string>79</string>
+				<string>76</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>The perimeter of a rectangle is 54cm. if the length is 3cm more than its width, what is the length?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>15 cm</string>
+			<key>Answers</key>
+			<array>
+				<string>15 cm</string>
+				<string>14 cm</string>
+				<string>13 cm</string>
+				<string>12 cm</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Three-sevenths of the 840 pupils of a school are boys and 2/3 of the boys are in primary grades. How many boys are there in the intermediate grades?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>120</string>
+			<key>Answers</key>
+			<array>
+				<string>300</string>
+				<string>240</string>
+				<string>140</string>
+				<string>120</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Ken finished 2/9 of a wall in 1 hour and 24 minutes. How long will it take him to finish the rest of the wall?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>4 hours and 54 minutes</string>
+			<key>Answers</key>
+			<array>
+				<string>6 hours and 18 minutes</string>
+				<string>4 hours and 54 minutes</string>
+				<string>4 hours and 34 minutes</string>
+				<string>3 hours and 18 minutes</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Thrice what number is the same as the sum of 456 and 624?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>360</string>
+			<key>Answers</key>
+			<array>
+				<string>1080</string>
+				<string>980</string>
+				<string>720</string>
+				<string>360</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>If May 16 is a Friday, what day is May 14?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>Wednesday</string>
+			<key>Answers</key>
+			<array>
+				<string>Monday</string>
+				<string>Tuesday</string>
+				<string>Wednesday</string>
+				<string>Thursday</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Mario multiplied 3.45 x 6.35 on a calculator without putting the decimal points and got 219075. What is the correct answer?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>21.9075</string>
+			<key>Answers</key>
+			<array>
+				<string>2.19075</string>
+				<string>21.9075</string>
+				<string>219.075</string>
+				<string>2190.75</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Luz gave 276 cans of sardines to one group of flood victims. She gave 69 more cans to a second group than the first. She gave 38 fewer to a third group than to the first. How many cans of sardines did Luz give away?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>859</string>
+			<key>Answers</key>
+			<array>
+				<string>859</string>
+				<string>276</string>
+				<string>552</string>
+				<string>828</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>A cube 12cm on each side contains 900cm³ of water. How much more water is needed to fill it completely?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>828 cm³ </string>
+			<key>Answers</key>
+			<array>
+				<string>828 cm³ </string>
+				<string>1,728 cm³</string>
+				<string>144 cm³</string>
+				<string>1,584 cm³</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>The scale of a plan of a house is 2cm to 3m. If a room is 7cm by 6cm on the plan, what is its actual area?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>94.5 cm²</string>
+			<key>Answers</key>
+			<array>
+				<string>42 cm²</string>
+				<string>105 cm²</string>
+				<string>90 cm²</string>
+				<string>94.5 cm²</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>A hamburger sandwich and a softdrink cost ₱22.50. Two hamburger sandwiches and a softdrink cost ₱37.00. How much does a sandwich cost?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>₱14.50</string>
+			<key>Answers</key>
+			<array>
+				<string>₱7.50</string>
+				<string>₱14.50</string>
+				<string>₱8.00</string>
+				<string>₱14.00</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>A box has 5dm by 4dm by 3dm internal measurements. Find the maximum number of pieces of soap 10cm by 6cm by 5cm that can be placed in it.</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>200</string>
+			<key>Answers</key>
+			<array>
+				<string>180</string>
+				<string>200</string>
+				<string>220</string>
+				<string>240</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Tom bought a sound system. He paid ₱1,100.00 in cash and the rest with his credit card. If he paid 20% of the price of the sound system in cash, how much was the total price of the sound system?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>₱5,500.00</string>
+			<key>Answers</key>
+			<array>
+				<string>₱1,100.00</string>
+				<string>₱3,300.00</string>
+				<string>₱5,500.00</string>
+				<string>₱7,700.00</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Liza bought 9kg of crabs and 8kg of prawns. Each kilogram of prawns costs half as much as a kilogram of crabs. If each kilogram of prawns costs ₱300.00, how much did Liza spend in all?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>₱7,800.00</string>
+			<key>Answers</key>
+			<array>
+				<string>₱7,800.00</string>
+				<string>₱5,400.00</string>
+				<string>₱2,700.00</string>
+				<string>₱2,400.00</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>On Wednesday, a bakery sold thrice as many buns as on Tuesday. On Thursday, it sold 100 more buns as on Wednesday. If the bakery sold 968 buns on the three days, how many did it sell on Thursday?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>472</string>
+			<key>Answers</key>
+			<array>
+				<string>124</string>
+				<string>372</string>
+				<string>472</string>
+				<string>496</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Tony had thrice as much money as Devi. Devi had ₱20.00 more than Pete. If the three persons had ₱380.00, how much did Pete have?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>₱60.00</string>
+			<key>Answers</key>
+			<array>
+				<string>₱300.00</string>
+				<string>₱240.00</string>
+				<string>₱80.00</string>
+				<string>₱60.00</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>There are 160 white and pink roses, 180 pink and yellow roses, and 170 white and yellow roses. How many pink roses are there?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>85</string>
+			<key>Answers</key>
+			<array>
+				<string>75</string>
+				<string>85</string>
+				<string>95</string>
+				<string>105</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>What number is 27 more than the difference of 95 and 36?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>86</string>
+			<key>Answers</key>
+			<array>
+				<string>59</string>
+				<string>68</string>
+				<string>76</string>
+				<string>86</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>What digit can be placed on the blank in 563_ to make it divisible by 6?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>4</string>
+			<key>Answers</key>
+			<array>
+				<string>3</string>
+				<string>4</string>
+				<string>5</string>
+				<string>6</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>What is the value of 5³ - 6 x 8?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>77</string>
+			<key>Answers</key>
+			<array>
+				<string>125</string>
+				<string>48</string>
+				<string>77</string>
+				<string>952</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Find the smallest whole number to multiply to 60 to make it a perfect square?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>15</string>
+			<key>Answers</key>
+			<array>
+				<string>3</string>
+				<string>4</string>
+				<string>6</string>
+				<string>15</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>The tens digit of a two-digit number is 5 more than the ones digit. If the number is 8 times the sum of its digit, find the number.</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>72</string>
+			<key>Answers</key>
+			<array>
+				<string>27</string>
+				<string>74</string>
+				<string>72</string>
+				<string>47</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>What is the 12th term in the pattern 10, 14, 18, 22, ...?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>54</string>
+			<key>Answers</key>
+			<array>
+				<string>64</string>
+				<string>54</string>
+				<string>44</string>
+				<string>34</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>A 20dm log is to be cut into 10 equal pieces. If each cut takes 3 minutes, how long will it take to make the 10 pieces?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>27 minutes</string>
+			<key>Answers</key>
+			<array>
+				<string>24 minutes</string>
+				<string>27 minutes</string>
+				<string>30 minutes</string>
+				<string>33 minutes</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Rina uses 2/3 of a cup of oats per serving of oatmeal. How many cups of oats does she need for 6 servings?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>4</string>
+			<key>Answers</key>
+			<array>
+				<string>3</string>
+				<string>4</string>
+				<string>5</string>
+				<string>6</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>One hundred is multiplied by a number between 0 and 1. The answer is between what two whole numbers?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>0 and 100</string>
+			<key>Answers</key>
+			<array>
+				<string>1 and 100</string>
+				<string>50 and 100</string>
+				<string>0 and 100</string>
+				<string>1 and 50</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>What is 4.8 x 10³?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>4,800</string>
+			<key>Answers</key>
+			<array>
+				<string>48</string>
+				<string>480</string>
+				<string>4,800</string>
+				<string>48,000</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Express the LCM of 10 and 15 as products of its prime factors.</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>2 x 3 x 5</string>
+			<key>Answers</key>
+			<array>
+				<string>1 x 10 x 15</string>
+				<string>1 x 2 x 3</string>
+				<string>1 x 3 x 5</string>
+				<string>2 x 3 x 5</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>The ratio of two numbers is 5:7. If the bigger number is 91, what is the smaller number?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>65</string>
+			<key>Answers</key>
+			<array>
+				<string>57</string>
+				<string>78</string>
+				<string>65</string>
+				<string>86</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>1/2 + 3/4 + 7/8 + 15/16 is equal to what improper fraction in lowest terms?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>49/16</string>
+			<key>Answers</key>
+			<array>
+				<string>98/2</string>
+				<string>196/4</string>
+				<string>13/8</string>
+				<string>49/16</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>How many pieces of string 4.2dm long can be cut from a roll of 30m string?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>71</string>
+			<key>Answers</key>
+			<array>
+				<string>69</string>
+				<string>70</string>
+				<string>71</string>
+				<string>72</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>What is the perimeter of a table formed by placing 7 square tables of side 1 1/2m end to end?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>24m</string>
+			<key>Answers</key>
+			<array>
+				<string>42m</string>
+				<string>24m</string>
+				<string>10.5m</string>
+				<string>28m</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>It takes one man one day to dig a 2m by 2m by 2m hole. How long will it take 3 men working at the same rate to dig a 4m by 4m by 4m hole?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>4/3 days</string>
+			<key>Answers</key>
+			<array>
+				<string>1/3 days</string>
+				<string>4/3 days</string>
+				<string>2/3 days</string>
+				<string>3/4 days</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Find two numbers with a sum of 22 and a product of 112.</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>8 and 14</string>
+			<key>Answers</key>
+			<array>
+				<string>56 and 56</string>
+				<string>10 and 12</string>
+				<string>11 and 11</string>
+				<string>8 and 14</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Change 3.325 to an improper fraction in lowest terms.</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>133/40</string>
+			<key>Answers</key>
+			<array>
+				<string>3325/1000</string>
+				<string>665/200</string>
+				<string>3325/10</string>
+				<string>133/40</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>If 48 is added to one-third of a number, the results is thrice the number. What is the number?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>18</string>
+			<key>Answers</key>
+			<array>
+				<string>48</string>
+				<string>24</string>
+				<string>18</string>
+				<string>6</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>What number multiplied by itself is equal to the product of 32 and 162?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>72</string>
+			<key>Answers</key>
+			<array>
+				<string>18</string>
+				<string>36</string>
+				<string>72</string>
+				<string>144</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>What is the 50th number in the pattern 4, 7, 10, 13, ...?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>151</string>
+			<key>Answers</key>
+			<array>
+				<string>155</string>
+				<string>151</string>
+				<string>147</string>
+				<string>159</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>When I open my mathematics book, the sum of two pages facing me is 317. What is the number of the very next page?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>160</string>
+			<key>Answers</key>
+			<array>
+				<string>158</string>
+				<string>157</string>
+				<string>159</string>
+				<string>160</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>The width of a rectangular garden is 3m less than the length. If the perimeter is 84m, what is the length?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>24.5m</string>
+			<key>Answers</key>
+			<array>
+				<string>22.5m</string>
+				<string>24.5m</string>
+				<string>23.5m</string>
+				<string>25.5m</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Five oranges and one apple cost ₱66.00. One orange and five apples cost ₱54.00. How much does an orange cost?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>₱11.50</string>
+			<key>Answers</key>
+			<array>
+				<string>₱11.50</string>
+				<string>₱23.00</string>
+				<string>₱8.50</string>
+				<string>₱20.00</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>The average weight of Joe and Ben is 50 2/3 kg. If the weight of Joe is 54 1/2kg, what is the weight of Ben?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>46 5/6</string>
+			<key>Answers</key>
+			<array>
+				<string>100 4/3</string>
+				<string>304/6</string>
+				<string>46 5/6</string>
+				<string>109/2</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>The quotient of two numbers is four and their difference is 39. Find the smaller one.</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>13</string>
+			<key>Answers</key>
+			<array>
+				<string>52</string>
+				<string>14</string>
+				<string>24</string>
+				<string>13</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Rina went to a store where she spent half her money and ₱14.00. She went to a second store where she spent one-third of her remaining money and ₱14.00 more. She had no money left. How much had she at first?</string>
+			<key>Figure</key>
+			<string></string>
+			<key>CorrectAnswer</key>
+			<string>₱70.00</string>
+			<key>Answers</key>
+			<array>
+				<string>₱21.00</string>
+				<string>₱49.00</string>
+				<string>₱42.00</string>
+				<string>₱70.00</string>
 			</array>
 		</dict>
 	</array>

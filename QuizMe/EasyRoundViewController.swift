@@ -21,10 +21,8 @@ class EasyRoundViewController: UIViewController {
     
     @IBAction func answerButtonHandler(sender: UIButton) {
         if sender.titleLabel!.text == correctAnswer {
-            //print("Correct")
             currentScore++
         } else {
-            //print("Wrong Answer")
             sender.backgroundColor = UIColor.redColor()
         }
         
@@ -42,16 +40,16 @@ class EasyRoundViewController: UIViewController {
     var question: String?
     var questionIdx = 0
     var questionInit: String?
+    let roundItems = 10
     
     @IBAction func nextButtonHandler(sender: AnyObject) {
         timer.invalidate()
         
-        if /*(questionIdx < easyQArray!.count - 1)*/ (questionIdx < roundItems - 1) {
+        if (questionIdx < roundItems - 1) {
             questionIdx++
             nextButton.enabled = true
             nextQuestion()
         } else {
-           // saveEasyScores() 
             showAlert(false)
             addScore()
         }
@@ -99,19 +97,19 @@ class EasyRoundViewController: UIViewController {
     }
     
     @IBOutlet weak var timerLabel: UILabel!
-    let timeGiven = 60
-    var seconds = 60
+    let timeGiven = 70
+    var seconds = 70
     var timer = NSTimer()
     
     func startTimer() {
         seconds = timeGiven
-        timerLabel.text = "Time: \(seconds) s"
+        //timerLabel.text = "Time: \(seconds) s"
         timer = NSTimer.scheduledTimerWithTimeInterval(1.0, target: self, selector: Selector("updateTime"), userInfo: nil, repeats: true)
     }
     
     func updateTime() {
-        seconds--
         timerLabel.text = "Time: \(seconds) s"
+        seconds--
         if(seconds == 0) {
            outOfTime()
         }
@@ -130,11 +128,6 @@ class EasyRoundViewController: UIViewController {
             }
         }
     }
-    
-    let roundItems = 10
-    var numQuestions = 0
-    
-    //easyScores = defaults.integerForKey("easyScores")
 
     func showAlert(slow:Bool) {
         var title: String?
@@ -148,7 +141,7 @@ class EasyRoundViewController: UIViewController {
         } else {
             title = "You have completed the round!"
             message = "You have \(currentScore) out of \(roundItems) correct answers"
-            ok = UIAlertAction(title: "Ok", style: .Default, handler: {(alert: UIAlertAction!) in self.backToMenu() })
+            ok = UIAlertAction(title: "Ok", style: .Default, handler: {(alert: UIAlertAction!) in self.sendToScores() })
         }
         
         let alertController = UIAlertController(title: title, message: message, preferredStyle: UIAlertControllerStyle.Alert)
@@ -157,15 +150,18 @@ class EasyRoundViewController: UIViewController {
         nextButton.enabled = true
     }
     
-    func backToMenu() {
+    func sendToScores() {
+        /*let vc = self.storyboard!.instantiateViewControllerWithIdentifier("easyScoresViewController") as UIViewController
+        self.navigationController!.pushViewController(vc, animated: true)*/
+        
         navigationController?.popToRootViewControllerAnimated(true)
+        
     }
     
     var newArray:[Double] = [0.0]
     
     func addScore() {
         if let oldArray = NSUserDefaults.standardUserDefaults().valueForKey("easyRoundScores") {
-            print(oldArray)
             newArray = oldArray as! [Double]
             newArray.append(currentScore)
         } else {
@@ -174,7 +170,6 @@ class EasyRoundViewController: UIViewController {
         
         NSUserDefaults.standardUserDefaults().setValue(newArray, forKey: "easyRoundScores")
         NSUserDefaults.standardUserDefaults().synchronize()
-        print(newArray)
     }
     
     @IBOutlet weak var questionNumLabel: UILabel!
@@ -185,6 +180,8 @@ class EasyRoundViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        
+        navigationController?.setNavigationBarHidden(true, animated: false)
         
         // Do any additional setup after loading the view.
         view.backgroundColor = UIColor(patternImage: UIImage(named: "iphone6bg")!)

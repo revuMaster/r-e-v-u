@@ -13,6 +13,7 @@ class SettingsViewController: UIViewController {
     
     @IBOutlet var quizModeButtons: [UIButton]!
   
+    var quizMode = 0
     @IBAction func quizModeButtonHandler(sender: UIButton) {
         for button in quizModeButtons {
             if sender != button {
@@ -47,8 +48,6 @@ class SettingsViewController: UIViewController {
         }
         
     }
-    
-    var quizMode = 0
     
     
     override func viewDidLoad() {
